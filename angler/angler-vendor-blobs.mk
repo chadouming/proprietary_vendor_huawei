@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/huawei/angler/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/huawei/angler/proprietary/etc/flp.conf:system/etc/flp.conf \
-    vendor/huawei/angler/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/huawei/angler/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/huawei/angler/proprietary/etc/lowi.conf:system/etc/lowi.conf \
     vendor/huawei/angler/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
@@ -105,25 +104,13 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/huawei/angler/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/huawei/angler/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
-    vendor/huawei/angler/proprietary/lib64/hw/gps.msm8994.so:system/lib64/hw/gps.msm8994.so \
     vendor/huawei/angler/proprietary/lib64/hw/nfc_nci.angler.so:system/lib64/hw/nfc_nci.angler.so \
-    vendor/huawei/angler/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
-    vendor/huawei/angler/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
-    vendor/huawei/angler/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
-    vendor/huawei/angler/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
-    vendor/huawei/angler/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/huawei/angler/proprietary/lib64/libManufacture.so:system/lib64/libManufacture.so \
     vendor/huawei/angler/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/huawei/angler/proprietary/lib/hw/camera.msm8994.so:system/lib/hw/camera.msm8994.so \
-    vendor/huawei/angler/proprietary/lib/hw/gps.msm8994.so:system/lib/hw/gps.msm8994.so \
     vendor/huawei/angler/proprietary/lib/hw/nfc_nci.angler.so:system/lib/hw/nfc_nci.angler.so \
     vendor/huawei/angler/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/huawei/angler/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
-    vendor/huawei/angler/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/huawei/angler/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/huawei/angler/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/huawei/angler/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/huawei/angler/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/huawei/angler/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/huawei/angler/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/huawei/angler/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
